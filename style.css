@@ -1,82 +1,82 @@
 body {
-  position: relative;
-  background-color: #CAEBF2;
-  padding-top: 80px;
+    position: relative;
+    background-color: #CAEBF2;
+    padding-top: 80px;
 }
 
 .jumbotron {
-  background-color: #EFEFEF;
+    background-color: #EFEFEF;
 }
 
 h2 {
-  padding-bottom: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 #myPicture {
-  background-color: #FF383F;
-  box-shadow: 5px 5px 10px #A9A9A9;
-  max-height: 205px;
-  margin: 0 auto;
+    background-color: #FF383F;
+    box-shadow: 5px 5px 10px #A9A9A9;
+    max-height: 205px;
+    margin: 0 auto;
 }
 
 .thumbnail {
-  background-color: #FF383F;
-  box-shadow: 5px 5px 10px #A9A9A9;
+    background-color: #FF383F;
+    box-shadow: 5px 5px 10px #A9A9A9;
 }
 
 .caption {
-  color: white !important;
+    color: white !important;
 }
 
 .navbar {
-  background-color: #FF383F;
+    background-color: #FF383F;
 }
 
 .navbar a {
-  color: #EFEFEF !important;
+    color: #EFEFEF !important;
 }
 
 .active a {
-  background-color: #cc050c !important;
-  color: #fff !important;
+    background-color: #cc050c !important;
+    color: #fff !important;
 }
 
 .fa:before {
-  font-size: 50px;
+    font-size: 50px;
 }
 
 a .fa-github-square {
-  color: #6e5494;
+    color: #6e5494;
 }
 
 a:hover .fa-github-square {
-  color: #5d4383;
+    color: #5d4383;
 }
 
 a:active .fa-github-square {
-  position: relative;
-  top: 1px;
+    position: relative;
+    top: 1px;
 }
 
 a .fa-linkedin-square {
-  color: #0077b5;
+    color: #0077b5;
 }
 
 a:hover .fa-linkedin-square {
-  color: #0066a4;
+    color: #0066a4;
 }
 
 a:active .fa-linkedin-square {
-  position: relative;
-  top: 1px;
+    position: relative;
+    top: 1px;
 }
 
 hr {
-  border: solid 1px #A9A9A9;
-  width: 55%;
-  margin-bottom: 2em;
+    border: solid 1px #A9A9A9;
+    width: 55%;
+    margin-bottom: 2em;
 }
 
 .thumbnail a:hover {
-  text-decoration: none;
+    text-decoration: none;
 }
