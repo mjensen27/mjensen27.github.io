@@ -8,10 +8,6 @@ body {
     background-color: #EFEFEF;
 }
 
-h2 {
-    padding-bottom: 1.5em;
-}
-
 #myPicture {
     background-color: #FF383F;
     box-shadow: 5px 5px 10px #A9A9A9;
@@ -80,3 +76,7 @@ hr {
 .thumbnail a:hover {
     text-decoration: none;
 }
+
+form {
+  margin: 40px 0;
+}p
